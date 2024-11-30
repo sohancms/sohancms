@@ -159,7 +159,7 @@ C                        2 repos             █░░░░░░░░░░�
   ![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
   
-<img align="left" alt="Saif Bashar Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
+<img align="left" alt="sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)]
   </div>
 
